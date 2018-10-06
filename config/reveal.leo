@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -37,6 +37,38 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20181006175543.1" a="E"><vh>Week1</vh>
+<v t="leo.20181006175543.2" a="E"><vh>Week1</vh>
+<v t="leo.20181006175543.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181006175658.1"><vh>導入影片1</vh>
+<v t="leo.20181006175658.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181006175704.1"><vh>導入影片2</vh>
+<v t="leo.20181006175704.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181006175709.1"><vh>導入影片3</vh>
+<v t="leo.20181006175709.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181006175715.1"><vh>導入影片4</vh>
+<v t="leo.20181006175715.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181006174611.1"><vh>導入影片5</vh>
+<v t="leo.20181006174611.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181006175726.1"><vh>導入影片6</vh>
+<v t="leo.20181006175726.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181006172151.1"><vh>Week2</vh>
+<v t="leo.20181006172151.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181006172153.1"><vh>Week3</vh>
+<v t="leo.20181006172153.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181006172155.1"><vh>Week4</vh>
+<v t="leo.20181006172155.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -127,6 +159,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
 ### 虎科大機械設計工程系
+40423146
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -325,6 +358,132 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181006172151.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006172151.2">## Week2
+</t>
+<t tx="leo.20181006172153.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006172153.2">## Week3
+</t>
+<t tx="leo.20181006172155.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006172155.2">## Week4
+
+</t>
+<t tx="leo.20181006174611.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006174611.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KJW6KJMQwbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181006175543.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181006175543.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181006175543.3">## Week1
+### Onshape練習
+
+</t>
+<t tx="leo.20181006175658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006175658.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eOW8KIU9KUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181006175704.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006175704.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PEwP2e0kzas" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181006175709.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006175709.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wkGMdk4IwUE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181006175715.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006175715.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4VWZb1Z-Ees" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181006175726.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181006175726.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y6gJ37V9vFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 </tnodes>
 </leo_file>
