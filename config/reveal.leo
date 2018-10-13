@@ -38,8 +38,8 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181006175543.1" a="E"><vh>Week1</vh>
-<v t="leo.20181006175543.2" a="E"><vh>Week1</vh>
+<v t="leo.20181006175543.1"><vh>Week1</vh>
+<v t="leo.20181006175543.2"><vh>Week1</vh>
 <v t="leo.20181006175543.3"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181006175658.1"><vh>導入影片1</vh>
@@ -69,6 +69,9 @@
 </v>
 <v t="leo.20181006172155.1"><vh>Week4</vh>
 <v t="leo.20181006172155.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181013171530.1" a="E"><vh>Week5</vh>
+<v t="leo.20181013171530.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -483,6 +486,18 @@ make.start()
 						
 </t>
 <t tx="leo.20181006175726.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y6gJ37V9vFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181013171530.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181013171530.2">## Week5
 
 </t>
 </tnodes>
