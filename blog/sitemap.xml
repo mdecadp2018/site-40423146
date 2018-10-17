@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2018-10-13T17:21:43-00:00</lastmod>
+<lastmod>2018-10-17T08:35:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2018-10-13T17:21:43-00:00</lastmod>
+<lastmod>2018-10-17T08:35:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2018-10-13T17:21:43-00:00</lastmod>
+<lastmod>2018-10-17T08:35:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2018-10-13T17:21:43-00:00</lastmod>
+<lastmod>2018-10-17T08:35:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./2018-Fall-Project-Blog-Week2.html</loc>
-<lastmod>2018-09-20T11:00:00+08:00</lastmod>
+<lastmod>2018-09-21T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,7 +110,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/2018fall-week2.html</loc>
-<lastmod>2018-09-20T11:00:00+08:06</lastmod>
+<lastmod>2018-09-21T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
