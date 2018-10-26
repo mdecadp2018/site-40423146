@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -110,6 +110,9 @@
 <v t="leo.20181025164603.1"><vh>Week6</vh>
 <v t="leo.20181025164603.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181026125100.1"><vh>Week7</vh>
+<v t="leo.20181026125100.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -196,19 +199,19 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 網際簡報
 
-### 虎科大機械設計工程系
+#### 虎科大機械設計工程系
 40423146
-
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[Github](https://mdecadp2018.github.io/site-40423146)
 
+[Blog](https://mdecadp2018.github.io/site-40423146/blog)
 
-</t>
+[網站](https://mdecadp2018.github.io/site-40423146)
+
+&lt;/small&gt;</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -609,7 +612,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181025164554.11">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xTJjdkHx3MQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181025164554.11">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xTJjdkHx3MQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181025164554.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -619,7 +624,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181025164554.13">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2SYqyyRKx1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181025164554.13">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2SYqyyRKx1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181025164554.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -644,7 +651,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181025164554.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-yGGgV8u8MA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181025164554.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-yGGgV8u8MA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181025164554.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -654,7 +663,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181025164554.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yCE6nc5NgaA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181025164554.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yCE6nc5NgaA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181025164554.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -664,7 +675,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181025164554.9">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/agR-AfLyogo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181025164554.9">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/agR-AfLyogo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181025164603.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -675,6 +688,18 @@ make.start()
 						
 </t>
 <t tx="leo.20181025164603.2">## Week6
+
+</t>
+<t tx="leo.20181026125100.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181026125100.2">## Week7
 
 </t>
 </tnodes>
