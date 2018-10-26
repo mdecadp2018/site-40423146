@@ -205,13 +205,15 @@ vertical: body pane on the botton</t>
 40423146
 &lt;small&gt;
 
-[Github](https://mdecadp2018.github.io/site-40423146)
+[Github](https://github.com/mdecadp2018/site-40423146)
 
 [Blog](https://mdecadp2018.github.io/site-40423146/blog)
 
 [網站](https://mdecadp2018.github.io/site-40423146)
 
-&lt;/small&gt;</t>
+&lt;/small&gt;
+
+</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
