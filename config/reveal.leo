@@ -85,24 +85,29 @@
 <v t="leo.20181025164554.2"><vh>Week3</vh>
 <v t="leo.20181025164554.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181025164554.4" a="E"><vh>導入影片1</vh>
+<v t="leo.20181025164554.4"><vh>導入影片1</vh>
 <v t="leo.20181025164554.5"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181025164554.6" a="E"><vh>導入影片2</vh>
+<v t="leo.20181025164554.6"><vh>導入影片2</vh>
 <v t="leo.20181025164554.7"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181025164554.8" a="E"><vh>導入影片3</vh>
+<v t="leo.20181025164554.8"><vh>導入影片3</vh>
 <v t="leo.20181025164554.9"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181025164554.10" a="E"><vh>導入影片4</vh>
+<v t="leo.20181025164554.10"><vh>導入影片4</vh>
 <v t="leo.20181025164554.11"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181025164554.12" a="E"><vh>導入影片5</vh>
+<v t="leo.20181025164554.12"><vh>導入影片5</vh>
 <v t="leo.20181025164554.13"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181006172155.1"><vh>Week4</vh>
-<v t="leo.20181006172155.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181031155414.1"><vh>Week4</vh>
+<v t="leo.20181031155414.2"><vh>Week4</vh>
+<v t="leo.20181031155414.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181031155509.1"><vh>導入影片1</vh>
+<v t="leo.20181031155509.2"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 <v t="leo.20181013171530.1"><vh>Week5</vh>
 <v t="leo.20181013171530.2"><vh>封面投影片內容</vh></v>
@@ -404,18 +409,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181006172155.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181006172155.2">## Week4
-
-</t>
 <t tx="leo.20181006174611.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -704,5 +697,35 @@ make.start()
 <t tx="leo.20181026125100.2">## Week7
 
 </t>
+<t tx="leo.20181031155414.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181031155414.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031155414.3">## Week4
+### Onshape練習
+
+</t>
+<t tx="leo.20181031155509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181031155509.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OtLgvSxzG1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
