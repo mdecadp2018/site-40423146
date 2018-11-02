@@ -109,14 +109,37 @@
 <v t="leo.20181031155509.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181013171530.1"><vh>Week5</vh>
-<v t="leo.20181013171530.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102164443.1"><vh>Week5</vh>
+<v t="leo.20181102164443.2" a="E"><vh>Week5</vh>
+<v t="leo.20181102164443.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102164443.4" a="E"><vh>導入影片1</vh>
+<v t="leo.20181102164443.5"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181102164443.6" a="E"><vh>導入影片2</vh>
+<v t="leo.20181102164443.7"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181102164443.8" a="E"><vh>導入影片3</vh>
+<v t="leo.20181102164443.9"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181102164443.10" a="E"><vh>導入影片4</vh>
+<v t="leo.20181102164443.11"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181102164443.12" a="E"><vh>導入影片5</vh>
+<v t="leo.20181102164443.13"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181102164513.1" a="E"><vh>導入影片6</vh>
+<v t="leo.20181102164513.2"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 <v t="leo.20181025164603.1"><vh>Week6</vh>
 <v t="leo.20181025164603.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181026125100.1"><vh>Week7</vh>
 <v t="leo.20181026125100.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102164316.1"><vh>Week8</vh>
+<v t="leo.20181102164316.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -501,18 +524,6 @@ make.start()
 <t tx="leo.20181006175726.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y6gJ37V9vFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20181013171530.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181013171530.2">## Week5
-
-</t>
 <t tx="leo.20181017082711.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -726,6 +737,99 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181031155509.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OtLgvSxzG1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181031155509.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OtLgvSxzG1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181102164316.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102164316.2">## Week8
+</t>
+<t tx="leo.20181102164443.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102164443.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102164443.11">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3s9mURtRWoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102164443.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102164443.13">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MFUkKSNMyzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102164443.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102164443.3">## Week5
+### Onshape練習
+
+</t>
+<t tx="leo.20181102164443.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102164443.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/D2RjOMWlMYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102164443.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102164443.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KQ82SALK6eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102164443.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102164443.9">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wxUOnmyJBxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102164513.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102164513.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/F8MzlDXNwYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
