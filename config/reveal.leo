@@ -141,14 +141,17 @@
 <v t="leo.20181102164316.1"><vh>Week8</vh>
 <v t="leo.20181102164316.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181123141303.1" a="E"><vh>Week9</vh>
+<v t="leo.20181123141303.1"><vh>Week9</vh>
 <v t="leo.20181123141303.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181123141305.1" a="E"><vh>Week10</vh>
+<v t="leo.20181123141305.1"><vh>Week10</vh>
 <v t="leo.20181123141305.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181123141316.1" a="E"><vh>Week11</vh>
+<v t="leo.20181123141316.1"><vh>Week11</vh>
 <v t="leo.20181123141316.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181130111956.1" a="E"><vh>Week12</vh>
+<v t="leo.20181130111956.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -884,6 +887,18 @@ make.start()
 						
 </t>
 <t tx="leo.20181123141316.2">## Week11
+</t>
+<t tx="leo.20181130111956.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181130111956.2">## Week12
+### [小組網站](https://mdecadp2018.github.io/finalproject-ag3)
 </t>
 </tnodes>
 </leo_file>
