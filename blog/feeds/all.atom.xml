@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-12-07T11:00:00+08:00</updated><entry><title>2018 Fall Week13</title><link href="./2018-Fall-Project-Blog-Week13.html" rel="alternate"></link><published>2018-12-07T11:00:00+08:00</published><updated>2018-12-07T11:00:00+08:00</updated><author><name>40423146</name></author><id>tag:None,2018-12-07:./2018-Fall-Project-Blog-Week13.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-12-14T11:00:00+08:00</updated><entry><title>2018 Fall Week14</title><link href="./2018-Fall-Project-Blog-Week14.html" rel="alternate"></link><published>2018-12-14T11:00:00+08:00</published><updated>2018-12-14T11:00:00+08:00</updated><author><name>40423146</name></author><id>tag:None,2018-12-14:./2018-Fall-Project-Blog-Week14.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;Vrep練習
+導入並分割零件
+&lt;img src="./../images/1214_1.JPG" width="400" height="361" alt=""&gt;
+&lt;img src="./../images/1214_2.JPG" width="400" height="227" alt=""&gt;
+將所選零件的坐標對齊
+&lt;img src="./../images/1214_3.JPG" width="400" height="335" alt=""&gt;
+&lt;img src="./../images/1214_4.JPG" width="400" height="433" alt=""&gt;
+更改顏色
+&lt;img src="./../images/1214_5.JPG" width="400" height="197" alt=""&gt;
+&lt;img src="./../images/1214_6.JPG" width="400" height="379" alt=""&gt;
+加入旋轉軸
+&lt;img src="./../images/1214_7.JPG" width="400" height="150" alt=""&gt;
+設定旋轉軸位置
+&lt;img src="./../images/1214_8.JPG" width="400" height="240" alt=""&gt;
+&lt;img src="./../images/1214_10.JPG" width="400" height="155" alt=""&gt;
+&lt;img src="./../images/1214_9.JPG" width="400" height="322" alt=""&gt;&lt;/p&gt;</content><category term="2018Fall-Week14"></category></entry><entry><title>2018 Fall Week13</title><link href="./2018-Fall-Project-Blog-Week13.html" rel="alternate"></link><published>2018-12-07T11:00:00+08:00</published><updated>2018-12-07T11:00:00+08:00</updated><author><name>40423146</name></author><id>tag:None,2018-12-07:./2018-Fall-Project-Blog-Week13.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;Onshape繪製行走機構&lt;/p&gt;</content><category term="2018Fall-Week13"></category></entry><entry><title>2018 Fall Week12</title><link href="./2018-Fall-Project-Blog-Week12.html" rel="alternate"></link><published>2018-11-30T11:00:00+08:00</published><updated>2018-11-30T11:00:00+08:00</updated><author><name>40423146</name></author><id>tag:None,2018-11-30:./2018-Fall-Project-Blog-Week12.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
