@@ -156,8 +156,27 @@
 <v t="leo.20181207150300.1"><vh>Week13</vh>
 <v t="leo.20181207150300.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181214150823.1" a="E"><vh>Week14</vh>
+<v t="leo.20181214150823.1"><vh>Week14</vh>
 <v t="leo.20181214150823.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181228165612.1"><vh>Week15</vh>
+<v t="leo.20181228165612.2"><vh>Week15</vh>
+<v t="leo.20181228165612.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181228165612.4"><vh>導入影片1</vh>
+<v t="leo.20181228165612.5"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181228165857.1"><vh>Week16</vh>
+<v t="leo.20181228165857.2"><vh>Week16</vh>
+<v t="leo.20181228165857.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181228165928.1"><vh>Week16</vh>
+<v t="leo.20181228165928.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181228170501.1"><vh>Week16</vh>
+<v t="leo.20181228170501.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -926,9 +945,84 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181214150823.2">## Week13
+<t tx="leo.20181214150823.2">## Week14
 ### Vrep練習
 &lt;img src="./../images/1214_9.JPG" width="400" height="322" alt=""&gt;
 </t>
+<t tx="leo.20181228165612.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181228165612.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181228165612.3">## Week15
+### 完整解構設計
+&lt;img src="./../images/1221_1.PNG" width="360" height="470" alt=""&gt;
+</t>
+<t tx="leo.20181228165612.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181228165612.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2JAgKDAhYZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181228165857.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181228165857.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181228165857.3">## Week16
+### 馬達示意圖
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bO2LhEfjAjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181228165928.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181228165928.2">### 齒輪比設計
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FmKml5OcH-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181228170501.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181228170501.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yj94z9PghzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
