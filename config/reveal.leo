@@ -167,15 +167,28 @@
 <v t="leo.20181228165612.5"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181228165857.1"><vh>Week16</vh>
+<v t="leo.20181228165857.1" a="E"><vh>Week16</vh>
 <v t="leo.20181228165857.2"><vh>Week16</vh>
 <v t="leo.20181228165857.3"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181228165928.1"><vh>Week16</vh>
 <v t="leo.20181228165928.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181228170501.1"><vh>Week16</vh>
+<v t="leo.20181228170501.1" a="E"><vh>Week16</vh>
 <v t="leo.20181228170501.2"><vh>封面投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111025522.1" a="E"><vh>Week17</vh>
+<v t="leo.20190111025522.2" a="E"><vh>Week17</vh>
+<v t="leo.20190111025522.3"><vh>封面投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111025631.1" a="E"><vh>Week18</vh>
+<v t="leo.20190111025631.2" a="E"><vh>Week18</vh>
+<v t="leo.20190111025631.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190111025707.1" a="E"><vh>Week18</vh>
+<v t="leo.20190111025707.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -978,7 +991,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181228165612.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2JAgKDAhYZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181228165612.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2JAgKDAhYZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181228165857.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -997,7 +1012,9 @@ make.start()
 </t>
 <t tx="leo.20181228165857.3">## Week16
 ### 馬達示意圖
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bO2LhEfjAjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bO2LhEfjAjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181228165928.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1023,6 +1040,58 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181228170501.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yj94z9PghzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181228170501.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yj94z9PghzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20190111025522.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111025522.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111025522.3">## Week17
+### 組合零件</t>
+<t tx="leo.20190111025631.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111025631.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111025631.3">## Week18
+### 期末</t>
+<t tx="leo.20190111025707.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111025707.2">## Week18
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LCztN-FG2Rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
