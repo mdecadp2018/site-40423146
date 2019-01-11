@@ -1061,7 +1061,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190111025522.3">## Week17
-### 組合零件</t>
+### 組合零件
+
+</t>
 <t tx="leo.20190111025631.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1079,7 +1081,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190111025631.3">## Week18
-### 期末</t>
+### 期末
+
+</t>
 <t tx="leo.20190111025707.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1092,6 +1096,6 @@ make.start()
 						
 </t>
 <t tx="leo.20190111025707.2">## Week18
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LCztN-FG2Rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sPhrCQENk9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
